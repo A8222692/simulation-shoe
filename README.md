@@ -3,9 +3,9 @@
 
 Python 3.7.9
 
-Openpose 1.5.1
+OpenPose 1.5.1
 
-unity 2020.3.42
+Unity 2020.3.42
 
 cuda 11.5
 
